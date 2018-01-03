@@ -21,3 +21,24 @@ img {
 .flashy {
   color: #3f33ad;
 }
+
+#wrapper {
+  width: 600px;
+  background:green;
+  margin: 0 auto;
+  position: relative;
+  padding: 20px;
+}
+
+#leftsidebar {
+  float: left;
+  background:blue;
+  width: 200px;
+  height: 200px;
+}
+
+.column {
+  width: 100px;
+  float: left;
+  margin-right: 10px;
+}
