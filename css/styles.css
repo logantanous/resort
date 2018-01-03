@@ -42,3 +42,19 @@ img {
   float: left;
   margin-right: 10px;
 }
+
+.outer {
+  width:200px;
+  height: 200px;
+  background: cyan;
+  position: absolute;
+  left: 500px;
+}
+
+.inner {
+  border: 1px solid black;
+  background: red;
+  padding: 20px;
+  width: 100px;
+  margin: 20px;
+}
