@@ -1,0 +1,19 @@
+body {
+  width: 1000px;
+  margin: 0 auto;
+  position: relative;
+  background-color: #999999;
+}
+
+header {text-align: center;}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display:block;
+  margin: 0 auto;
+  position: relative;
+  width: 40%;
+}
